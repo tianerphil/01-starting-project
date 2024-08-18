@@ -1,0 +1,15 @@
+1. install node
+
+brew install node
+
+npm -v 
+node -v
+
+2. install dependancies
+
+cd to the react project folder
+
+npm install
+
+3. npm run dev
+
